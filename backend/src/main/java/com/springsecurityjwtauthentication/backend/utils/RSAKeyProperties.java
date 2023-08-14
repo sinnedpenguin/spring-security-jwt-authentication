@@ -1,4 +1,4 @@
-package com.angularpsringbootecommerce.backend.utils;
+package com.springsecurityjwtauthentication.backend.utils;
 
 import org.springframework.stereotype.Component;
 

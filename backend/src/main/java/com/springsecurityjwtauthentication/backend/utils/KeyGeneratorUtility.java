@@ -1,4 +1,4 @@
-package com.angularpsringbootecommerce.backend.utils;
+package com.springsecurityjwtauthentication.backend.utils;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
@@ -9,11 +9,11 @@ public class KeyGeneratorUtility {
 
         KeyPair keyPair;
 
-        try{
+        try {
             KeyPairGenerator keyPairGenerator = KeyPairGenerator.getInstance("RSA");
             keyPairGenerator.initialize(2048);
             keyPair = keyPairGenerator.generateKeyPair();
-        } catch(Exception e){
+        } catch (Exception e) {
             throw new IllegalStateException();
         }
 

@@ -1,6 +1,6 @@
-package com.angularpsringbootecommerce.backend.services;
+package com.springsecurityjwtauthentication.backend.services;
 
-import com.angularpsringbootecommerce.backend.repository.UserRepository;
+import com.springsecurityjwtauthentication.backend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

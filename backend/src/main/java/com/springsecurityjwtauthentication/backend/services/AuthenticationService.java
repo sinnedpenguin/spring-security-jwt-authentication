@@ -1,10 +1,10 @@
-package com.angularpsringbootecommerce.backend.services;
+package com.springsecurityjwtauthentication.backend.services;
 
-import com.angularpsringbootecommerce.backend.dtos.UserLoginDto;
-import com.angularpsringbootecommerce.backend.models.User;
-import com.angularpsringbootecommerce.backend.models.UserRole;
-import com.angularpsringbootecommerce.backend.repository.UserRepository;
-import com.angularpsringbootecommerce.backend.repository.UserRoleRepository;
+import com.springsecurityjwtauthentication.backend.dtos.UserLoginDto;
+import com.springsecurityjwtauthentication.backend.models.User;
+import com.springsecurityjwtauthentication.backend.models.UserRole;
+import com.springsecurityjwtauthentication.backend.repository.UserRepository;
+import com.springsecurityjwtauthentication.backend.repository.UserRoleRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;

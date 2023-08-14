@@ -1,9 +1,9 @@
-package com.angularpsringbootecommerce.backend;
+package com.springsecurityjwtauthentication.backend;
 
-import com.angularpsringbootecommerce.backend.models.User;
-import com.angularpsringbootecommerce.backend.models.UserRole;
-import com.angularpsringbootecommerce.backend.repository.UserRepository;
-import com.angularpsringbootecommerce.backend.repository.UserRoleRepository;
+import com.springsecurityjwtauthentication.backend.models.User;
+import com.springsecurityjwtauthentication.backend.models.UserRole;
+import com.springsecurityjwtauthentication.backend.repository.UserRepository;
+import com.springsecurityjwtauthentication.backend.repository.UserRoleRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,15 +1,15 @@
 package com.springsecurityjwtauthentication.backend.dtos;
 
-public class UserRegisterDto {
+public class UserDto {
 
     private String email;
     private String password;
 
-    public UserRegisterDto() {
+    public UserDto() {
         super();
     }
 
-    public UserRegisterDto(String email, String password) {
+    public UserDto(String email, String password) {
         super();
         this.email = email;
         this.password = password;

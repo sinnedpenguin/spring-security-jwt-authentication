@@ -1,6 +1,6 @@
-package com.angularpsringbootecommerce.backend.repository;
+package com.springsecurityjwtauthentication.backend.repository;
 
-import com.angularpsringbootecommerce.backend.models.User;
+import com.springsecurityjwtauthentication.backend.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

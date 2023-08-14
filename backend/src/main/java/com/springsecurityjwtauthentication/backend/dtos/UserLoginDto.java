@@ -1,6 +1,6 @@
-package com.angularpsringbootecommerce.backend.dtos;
+package com.springsecurityjwtauthentication.backend.dtos;
 
-import com.angularpsringbootecommerce.backend.models.User;
+import com.springsecurityjwtauthentication.backend.models.User;
 
 public class UserLoginDto {
 

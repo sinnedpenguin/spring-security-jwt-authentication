@@ -1,4 +1,4 @@
-package com.angularpsringbootecommerce.backend.models;
+package com.springsecurityjwtauthentication.backend.models;
 
 import jakarta.persistence.*;
 import org.springframework.security.core.GrantedAuthority;

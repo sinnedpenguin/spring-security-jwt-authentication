@@ -1,4 +1,4 @@
-package com.angularpsringbootecommerce.backend.services;
+package com.springsecurityjwtauthentication.backend.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
