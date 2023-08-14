@@ -1,4 +1,4 @@
-package com.angularpsringbootecommerce.backend.dtos;
+package com.springsecurityjwtauthentication.backend.dtos;
 
 public class UserRegisterDto {
 
